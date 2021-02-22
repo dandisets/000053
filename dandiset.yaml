@@ -4,25 +4,43 @@
 contributors:
 - affiliations:
   - Stanford University
+  name: Caitlin S. Mallory
+  orcid: 0000-0003-2865-0235
+  roles:
+  - Author
+- affiliations:
+  - Stanford University
   name: Kiah Hardcastle
   orcid: 0000-0002-2337-9290
   roles:
   - Author
 - affiliations:
   - Stanford University
-  name: Caitlin Mallory
-  orcid: 0000-0003-2865-0235
+  name: Malcolm G. Campbell
+  orcid: 0000-0002-1971-8923
   roles:
   - Author
 - affiliations:
-  - CatalystNeuro
-  name: Benjamin Dichter
-  orcid: 0000-0001-5725-6910
+  - Stanford University
+  name: Alexander Attinger
+  orcid: 0000-0002-6129-3199
   roles:
-  - DataCurator
+  - Author
 - affiliations:
   - Stanford University
-  name: Lisa Giocomo
+  name: Isabel I. C. Low
+  orcid: 0000-0001-6465-8459
+  roles:
+  - Author
+- affiliations:
+  - Stanford University
+  name: Jennifer L. Raymond
+  orcid: 0000-0002-8145-747X
+  roles:
+  - Author
+- affiliations:
+  - Stanford University
+  name: ' Lisa M. Giocomo'
   orcid: 0000-0003-0416-2528
   roles:
   - Author
@@ -31,4 +49,11 @@ description: This dataset contains two task types. The first is tetrode recordin
   measurements of the head, and the second is Neuropixel recordings from medial entorhinal
   cortex during navigation down a virtual linear track with simultaneous eye measurements.
 identifier: '000053'
+keywords:
+- neuropixel
+- entorhinal cortex
 name: Recordings from medial entorhinal cortex during linear track and open exploration
+publications:
+- identifier: https://doi.org/10.1038/s41467-021-20936-8
+  relation: Primary publication
+  url: https://www.nature.com/articles/s41467-021-20936-8
