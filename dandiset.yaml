@@ -9,18 +9,8 @@ access:
     schemaKey: ContactPoint
   status: dandi:OpenAccess
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 1393123967965
-  numberOfFiles: 359
-  numberOfSubjects: 34
-  schemaKey: AssetsSummary
-  species: []
-  variableMeasured: []
+  numberOfBytes: 0
+  numberOfFiles: 0
 citation: Mallory, Caitlin S.; Hardcastle, Kiah; Campbell, Malcolm G.; Attinger, Alexander;
   Low, Isabel I. C.; Raymond, Jennifer L.; Giocomo, Lisa M. (2021) Recordings from
   medial entorhinal cortex during linear track and open exploration (Version draft)
