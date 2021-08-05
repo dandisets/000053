@@ -128,7 +128,8 @@ keywords:
 - neuropixel
 - entorhinal cortex
 license: []
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000053/versions/draft/assets/
 name: Recordings from medial entorhinal cortex during linear track and open exploration
 protocol: []
 relatedResource:
