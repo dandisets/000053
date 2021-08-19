@@ -49,8 +49,8 @@ assetsSummary:
   - ProcessingModule
 citation: Mallory, Caitlin S.; Hardcastle, Kiah; Campbell, Malcolm G.; Attinger, Alexander;
   Low, Isabel I. C.; Raymond, Jennifer L.; Giocomo, Lisa M. (2021) Recordings from
-  medial entorhinal cortex during linear track and open exploration (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000053/draft
+  medial entorhinal cortex during linear track and open exploration (Version 0.210819.0345)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000053/0.210819.0345
 contributor:
 - affiliation:
   - identifier: https://ror.org/00f54p054
@@ -123,12 +123,14 @@ contributor:
   - dcite:Author
   - dcite:ContactPerson
   schemaKey: Person
+datePublished: '2021-08-19T03:45:21.891678'
 description: This dataset contains two task types. The first is tetrode recordings
   from medial entorhinal cortex during open field navigation with simultaneous inertial
   measurements of the head, and the second is Neuropixel recordings from medial entorhinal
   cortex during navigation down a virtual linear track with simultaneous eye measurements.
+doi: 10.48324/dandi.000053/0.210819.0345
 ethicsApproval: []
-id: DANDI:000053/draft
+id: DANDI:000053/0.210819.0345
 identifier: DANDI:000053
 keywords:
 - neuropixel
@@ -136,9 +138,21 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000053/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000053/0.210819.0345/assets.yaml
 name: Recordings from medial entorhinal cortex during linear track and open exploration
 protocol: []
+publishedBy:
+  endDate: '2021-08-19T03:45:21.891678'
+  id: urn:uuid:b8dc8ad1-df58-4d39-a0f9-4fac5aaddffe
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2021-08-19T03:45:21.891678'
+  wasAssociatedWith:
+  - id: urn:uuid:023b6cbb-707d-4597-b37c-085b5f009791
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: DOI:10.1038/s41467-021-20936-8
   relation: dcite:IsDescribedBy
@@ -148,6 +162,6 @@ repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.4.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000053/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000053/0.210819.0345
+version: 0.210819.0345
 wasGeneratedBy: []
