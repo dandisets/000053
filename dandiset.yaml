@@ -173,6 +173,16 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- affiliation:
+  - identifier: https://ror.org/01d74sk53
+    name: CatalystNeuro
+    schemaKey: Affiliation
+  identifier: 0000-0003-1147-2954
+  includeInCitation: false
+  name: Tauffer, Luiz
+  roleName:
+  - dcite:DataCurator
+  schemaKey: Person
 dateCreated: '2020-12-22T18:29:52.301000+00:00'
 description: This dataset contains two task types. The first is tetrode recordings
   from medial entorhinal cortex during open field navigation with simultaneous inertial
